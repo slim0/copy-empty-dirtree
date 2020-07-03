@@ -3,4 +3,4 @@ Python script which allows to duplicate a folder tree (without the files, only f
 
 # How to use it
 from console : 
-`python3 copy_empty_dirtree.py /home/me/source/ /home/me/destination`
+`python3 copy_empty_dirtree.py /source/folder/structure/ /destination/`
